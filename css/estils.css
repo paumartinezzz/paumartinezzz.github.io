@@ -17,7 +17,7 @@ body {
 
 /* Style the header */
 header {
-  background-image: url("../img/tierra.png");
+  background: black;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -25,7 +25,7 @@ header {
   padding: 30px;
   text-align: center;
   font-size: 35px;
-  color: black;
+  color: white;
   height: 40vh;
   
 
