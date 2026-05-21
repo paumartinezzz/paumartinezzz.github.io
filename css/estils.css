@@ -24,19 +24,19 @@ header {
   padding: 30px;
   text-align: center;
   font-size: 35px;
-  color: whitesmoke;
+  color: black;
   height: 40vh;
   
 }
 header h2 {
   margin-top: 10vh;
   font-size: 10vh;
-  text-shadow: 3px 3px #0B6191;
+  text-shadow: 2px 2px gray;
 }
 header h4 {
   margin-top: 1vh;
   font-size: 5vh;
-  text-shadow: 2px 2px #0B6191;
+  text-shadow: 2px 2px gray;
   float: right;
 }
 header h4 a {
