@@ -19,6 +19,8 @@ header {
   background-color: #012538;
   background-image: url(tierra.png);
   background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   padding: 30px;
   text-align: center;
   font-size: 35px;
