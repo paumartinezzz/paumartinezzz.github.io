@@ -27,6 +27,9 @@ header {
   color: black;
   height: 40vh;
   
+header h1 {
+    color: black;
+    text-shadow: 2px 2px gray;
 }
 header h2 {
   margin-top: 10vh;
