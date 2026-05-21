@@ -10,8 +10,8 @@ CSS HEX
   margin: 0;
 }
 body {
-  font-family: Arial, Helvetica, sans-serif;
-  background: linear-gradient(to bottom, #111111, #2b2b2b);
+  background:red !important;
+  
 }
 
 /* Style the header */
