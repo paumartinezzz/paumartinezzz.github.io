@@ -78,7 +78,7 @@ nav ul li a:hover:not(.active) {
 /* Article section */
 article {
   padding: 20px;
-  background-color: #eef2f5;
+  background-color: #d9d9d9;
   display: table;
   width: 100%;
 }
