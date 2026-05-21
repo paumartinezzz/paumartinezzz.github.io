@@ -16,16 +16,17 @@ body {
 
 /* Style the header */
 header {
-  background-color: #012538;
-  background-image: url(../img/tierra.png);
+  background-image: url("../img/tierra.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+
   padding: 30px;
   text-align: center;
   font-size: 35px;
   color: whitesmoke;
   height: 40vh;
+  
 }
 header h2 {
   margin-top: 10vh;
