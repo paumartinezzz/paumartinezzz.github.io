@@ -27,14 +27,13 @@ header {
   color: black;
   height: 40vh;
   
-header h1 {
-    color: black;
-    text-shadow: 2px 2px gray;
+
 }
 header h2 {
-  margin-top: 10vh;
+  margin-top: 10vh
   font-size: 10vh;
-  text-shadow: 2px 2px gray;
+  color: black;
+  text-shadow: none;
 }
 header h4 {
   margin-top: 1vh;
