@@ -11,7 +11,7 @@ CSS HEX
 }
 body {
   font-family: Arial, Helvetica, sans-serif;
-  background: black;
+  background: linear-gradient(to bottom, #111111, #2b2b2b);
 }
 
 /* Style the header */
