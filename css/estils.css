@@ -134,7 +134,8 @@ fieldset {
   header h2 {
     margin-top: 3vh;
     font-size: 15vh;
-    text-shadow: 1px 1px #012538;
+    color: black;
+    text-shadow: none;
   }
 
   header h4 {
